@@ -7,7 +7,7 @@ Hi! I'm Swapnil, a Senior Software Engineer at Cisco with a passion for building
 
 > Every idea is worth exploring!
 
-# Experience
+<!-- # Experience
 
 - **Software Engineer II**  
   Cisco Secure Access and Cisco Umbrella — Bengaluru, India  
@@ -32,11 +32,11 @@ Hi! I'm Swapnil, a Senior Software Engineer at Cisco with a passion for building
   - Delivered automated network solutions for global service providers.  
   - Worked on automation upgrades for Cisco hardware (ASR9K, NCS500) running IOS-XE and IOS-XR.  
   - Ensured end-to-end connectivity testing across complex network components.  
-  - Hands-on experience with routing protocols including OSPF, EIGRP, SRTE, and BGP.  
+  - Hands-on experience with routing protocols including OSPF, EIGRP, SRTE, and BGP.   -->
 
 # Education
 
-- **Master’s in Artificial Intelligence** (Ongoing)  
+- **Master’s in Artificial Intelligence** (2024 - Present)  
   Indian Institute of Science  
   Focused on deep learning, reinforcement learning, and classical statistical machine learning research.
 
@@ -44,4 +44,3 @@ Hi! I'm Swapnil, a Senior Software Engineer at Cisco with a passion for building
   Vellore Institute of Technology  
   Graduated as one of the top performers in the institute.  
 
----
